@@ -1,2 +1,7 @@
 Even no Problem.
 //Here you have to check the divisibility by 2.
+class Even no{
+public static void main9(String[] args){
+
+}
+}
